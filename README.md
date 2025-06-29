@@ -19,11 +19,8 @@
 #responsive🚀💫
 
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/ce59cde77ec686e262b33014e4f440c6c89e211a/Screenshot%202025-06-29%20181251.png)
-
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/443618b02c3ccb1e9186bf838e04ac5d92f63a77/Screenshot%202025-06-29%20180840.png)
-
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/9558aa7004fe10025943f314b004a0318a586268/Screenshot%202025-06-29%20181334.png)
-
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/537a50606555731eabb35213e7827593753bb3a4/Screenshot%202025-06-29%20180656.png)
 
 #step_followed
