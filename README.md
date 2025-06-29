@@ -5,7 +5,7 @@
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/e40c3dad7c41e4ec82cc36ed41ac840da234690e/Screenshot%202025-06-27%20182029.png)
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/ffc4d93e0c2059de792df4eea0fa3cd3cc8c96d0/Screenshot%202025-06-29%20181231.png)
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/5a45d7eea8eab369b95dd66ae09d8c75885b7b74/Screenshot%202025-06-29%20180946.png)
-![image alt]()
+![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/4cce500038d9e5c7bef3018dedf558a041cebae6/Screenshot%202025-06-29%20181010.png)
 ![image alt]()
 
 - Create React App🚀
