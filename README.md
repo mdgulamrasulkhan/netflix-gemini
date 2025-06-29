@@ -1,4 +1,7 @@
 # Netflix GPT
+![image alt]()
+#overview 
+![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/e40c3dad7c41e4ec82cc36ed41ac840da234690e/Screenshot%202025-06-27%20182029.png)
 
 - Create React App🚀
 - Configure Tailwindcss
