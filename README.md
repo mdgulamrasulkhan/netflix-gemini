@@ -9,6 +9,12 @@
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/7054d0517f06c1377700831b16c768b9f382b798/Screenshot%202025-06-29%20181053.png)
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/110ab3ec11cf7115b9a102d2a85436677dbed160/Screenshot%202025-06-29%20181144.png)
 ![image alt]()
+
+
+#responsive🚀💫
+![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/ce59cde77ec686e262b33014e4f440c6c89e211a/Screenshot%202025-06-29%20181251.png)
+![image alt]()
+![image alt]()
 - Create React App🚀
 - Configure Tailwindcss
 - Header
