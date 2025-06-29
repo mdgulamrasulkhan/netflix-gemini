@@ -13,7 +13,7 @@
 
 #responsive🚀💫
 ![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/ce59cde77ec686e262b33014e4f440c6c89e211a/Screenshot%202025-06-29%20181251.png)
-![image alt]()
+![image alt](https://github.com/mdgulamrasulkhan/netflix-gemini/blob/9558aa7004fe10025943f314b004a0318a586268/Screenshot%202025-06-29%20181334.png)
 ![image alt]()
 - Create React App🚀
 - Configure Tailwindcss
